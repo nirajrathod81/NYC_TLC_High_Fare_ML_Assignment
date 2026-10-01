@@ -1,0 +1,14 @@
+{
+  "requests": 500,
+  "concurrency": 1,
+  "elapsed_seconds": 15.32234050007537,
+  "throughput_requests_per_second": 32.63209037793805,
+  "latency_ms": {
+    "mean": 30.639905816176906,
+    "p50": 29.851125087589025,
+    "p95": 34.39654200337827,
+    "p99": 44.42224989179522
+  },
+  "server_rss_mb_before": null,
+  "server_rss_mb_after": null
+}
